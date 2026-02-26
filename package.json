@@ -1,0 +1,6 @@
+{
+  "name": "bestbarbers-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard gerencial BestBarbers",
+  "engines": { "node": ">=18" }
+}
